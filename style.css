@@ -4,3 +4,13 @@
     color: bisque;
     background-color: rgb(2, 161, 108);
 }
+
+.btn {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    background-color: blueviolet;
+    padding: 30px;
+    border-radius: 30px;
+    margin-left: 45%;
+    border: 0;
+}
